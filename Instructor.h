@@ -3,7 +3,7 @@
 
 #include "Person.h"
 using namespace std;
-Class Instructor{public Person:
+Class Instructor:public Person{
 private:
     string department;
     int experienceYears;
