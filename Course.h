@@ -4,7 +4,7 @@
 #include <string>
 #include "Student.h"
 using namespace std;
-Class Course{public Student:
+Class Course:public Student{
 private:
     string courseCode;
     string courseName;
